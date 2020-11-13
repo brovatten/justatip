@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Just a Tip</string>
+    <string name="info">"The data from the selected countries regarding tip is gathered from wonderfulwanderings.com ("Tipping Etiquette In Europe"), which is according to the article based on atleast 120 sources including TripAdvisor forums, Business Insider, Conde Nast Traveler and other well established websites.
+        To decompose the text to an interval by recommendeded tip, from a decent experience to an excellent one, the article was interpreted to better fit the context. "</string>
+    <string name="developer">"Developer: Alexander Bridgwater</string>
+    <string name="design">"Design vision: Emilia Kierkegaard </string>
+
+</resources>
